@@ -1,5 +1,5 @@
 export const config = {
-    RPC_URL: 'https://observer.node-1.canow-jp.dev:26656',
+    RPC_URL: 'https://observer.node-1.canow-jp.dev:26657',
     REST_URL: 'https://observer.node-1.canow-jp.dev',
     EXPLORER_URL: 'https://explorer.canow-jp.dev',
     STAKING_URL: 'https://omniflix.canow-jp.dev/stake',
